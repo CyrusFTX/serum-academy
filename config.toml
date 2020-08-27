@@ -1,0 +1,53 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Serum Academy"
+theme = "learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+
+[params]
+  editURL = "https://github.com/dr497/serum-academy" # ?
+  description = "Serum Academy"
+  author = "Serum lovers"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  themeVariant = "blue"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "Serum Academy"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Project Serum GitHub"
+identifier = "ds"
+url = "https://github.com/project-serum"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Project Serum Website"
+url = "https://projectserum.com"
+weight = 20
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-discord'></i> Project Serum Discord"
+url = "https://discord.gg/MxZFT4v"
+weight = 30
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-telegram'></i> Project Serum Telegram"
+url = "https://t.me/ProjectSerum"
+weight = 30
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-twitter'></i> Project Serum Twitter"
+url = "https://twitter.com/projectserum"
+weight = 30
