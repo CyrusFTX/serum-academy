@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/serum-academy/serum-dex/sol-wallet/</loc>
+    <loc>/serum-dex/sol-wallet/</loc>
   </url>
   
   <url>
-    <loc>/serum-academy/serum-dex/connect-wallet/</loc>
+    <loc>/serum-dex/connect-wallet/</loc>
   </url>
   
   <url>
-    <loc>/serum-academy/serum-dex/trade/</loc>
+    <loc>/serum-dex/trade/</loc>
   </url>
   
   <url>
-    <loc>/serum-academy/serum-dex/</loc>
+    <loc>/serum-dex/</loc>
   </url>
   
   <url>
-    <loc>/serum-academy/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/serum-academy/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>/serum-academy/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

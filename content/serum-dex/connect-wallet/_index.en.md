@@ -8,14 +8,14 @@ weight: 2
 
 Once you are in Serum DEX, make sure you are on **mainnet-beta** on the top right corner in order to trade real markets.
 
-![serum-dex](/serum-dex/connect-wallet/images/serum-dex.png?classes=shadow&width=50pc)
+![serum-dex](/images/articles/serum-dex/connect-wallet/serum-dex.png?classes=shadow&width=50pc)
 
 Click **Connect** wallet (Make sure you have already switched to your desirable account in [Sollet.io](https://sollet.io)) and finish the connection process by clicking on **Connect**
 
-![confirmation](/serum-dex/connect-wallet/images/confirmation.png?classes=shadow&width=20pc)
+![confirmation](/images/articles/serum-dex/connect-wallet/confirmation.png?classes=shadow&width=20pc)
 
 And you will see your wallet balance synced with your [Sollet.io](https://sollet.io) balance.
 
 You can disconnect your wallet at any time by clicking on **Disconnect** on the top right corner of Serum DEX.
 
-![disconnect](/serum-dex/connect-wallet/images/disconnect.png?classes=shadow&width=25pc)
+![disconnect](/images/articles/serum-dex/connect-wallet/disconnect.png?classes=shadow&width=25pc)
