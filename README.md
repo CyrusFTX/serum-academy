@@ -8,7 +8,7 @@ The goal of Serum Academy is to teach people how to use Serum ecosystem and buil
 
 Anyone can contribute to the Serum Academy by submitting a pull request.
 
-Serum Acatemy is hosted on GitHub Pages and available at: https://serum-academy.com/
+Serum Academy is hosted on GitHub Pages and available at: https://serum-academy.com/
 
 # What is Serum ? :droplet: 
 
