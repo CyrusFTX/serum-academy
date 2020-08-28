@@ -6,7 +6,7 @@
 
 Serum学院的宗旨是教育大众如何透过Serum生态系统在Solana公链和来Serum上建设项目。
 
-任何人也可以透过提交pull request的方式，来为Serum学院的内容作出贡献。
+任何人也可以透过提交pull request的方式，向Serum学院投稿。
 
 Serum学院储存放GitHub Pages之上，详情请浏览官网： https://serum-academy.com/
 
