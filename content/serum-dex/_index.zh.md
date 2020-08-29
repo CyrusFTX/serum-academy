@@ -1,5 +1,5 @@
 ---
-title: Trade on Serum DEX
+title: 在Serum DEX上交易
 weight: 5
 pre: "<b>1. </b>"
 chapter: true
@@ -7,14 +7,14 @@ chapter: true
 
 ### Chapter 1
 
-# How to use Serum DEX
+# 如何使用Serum DEX
 
-In this tutorial we will show you how to trade on Serum step by step.
+以下教学将会演示在Serum上进行交易的每个步骤
 
 {{<mermaid>}}
 graph TD
-A[Create SOL wallet] -->|Send funds| B(Go to Serum DEX)
-B --> C[Connect SOL wallet]
-C --> D[Trade]
-D --> |Settle trade| E[Withdraw]
+A[创建SOL钱包] -->|转移资金| B(转移至Serum DEX页面)
+B --> C[连接SOL钱包]
+C --> D[进行交易]
+D --> |进行结算| E[提取资金]
 {{</mermaid>}}

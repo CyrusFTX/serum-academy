@@ -4,31 +4,31 @@ title: Trade
 weight: 3
 ---
 
-## Trade
+## 交易
 
-Now that you have successfully connected your SOL wallet it’s time to trade. The trading experience is the same as a centralized exchange, with the same interface.
+当您成功连接您的SOL钱包后就可以进行交易。整个交易体验和在中央化交易所进行交易是一样的，用户介面也是相同。
 
-Let’s buy 88 BASE tokens at a limit price of 3.1 QUOTE tokens each and make sure you approve this transaction on your [Sollet.io](https://sollet.io) popup.
+举例说，我们要以3.1QUOTE价格购买88个BASE通证，确保输入正确数量和价格后，请在 [Sollet.io](https://sollet.io) 弹窗同意这笔交易请求。
 
 ![order form](/images/articles/serum-dex/trade/order-form.png?classes=shadow&width=30pc)
 
 ![approve-transaction](/images/articles/serum-dex/trade/approve-transaction.png?classes=shadow&width=40pc)
 
-Now you can see your limit buy order on the Orderbook, also in the Open Orders.
+可以在订单簿看到您的限价单和其他订单。
 
 ![order](/images/articles/serum-dex/trade/order.png?classes=shadow&width=60pc)
 
-Note that cancelling your Open Orders or having the trade successfully matched and traded won’t update your wallet balance. These funds sit in an intermediary account and require you to settle them back to your own sollet wallet. You have to go to Balances to settle them back to your [Sollet.io](https://sollet.io) wallet.
+请注意，取消当前委托单或成交订单不会更新您的钱包余额。这些资金会存放在Serum上的一个临时帐户中，您需要在余额页面点击结算来将这些资金转回到你的 [Sollet.io](https://sollet.io) 钱包。
 
-- Your Balances after cancelling the limit buy order of “88 BASE tokens at limit price 3.1 QUOTE”
+- 在取消上述限价订单后您的余额
 
 ![balances](/images/articles/serum-dex/trade/balances.png?classes=shadow&width=60pc)
 
-- Your Balances after buying “11 BASE tokens at the price of 2.22 QUOTE”
+- 在完成上述交易后的余额
 
-  - Before settlement ![before-settlement](/images/articles/serum-dex/trade/before-settlement.png?classes=shadow&width=60pc)
-  - After settlement ![after-settlement](/images/articles/serum-dex/trade/after-settlement.png?classes=shadow&width=60pc)
+  - 在点击"结算"之前 ![before-settlement](/images/articles/serum-dex/trade/before-settlement.png?classes=shadow&width=60pc)
+  - 在点击"结算"之后 ![after-settlement](/images/articles/serum-dex/trade/after-settlement.png?classes=shadow&width=60pc)
 
 {{% notice tip %}}
-Note that you need to settle your trades. Otherwise they will sit in an intermediary account.
+请注意，您必须对所有交易进行结算，否则资金只会继续停留在临时帐户。
 {{% /notice %}}

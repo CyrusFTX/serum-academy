@@ -2,22 +2,22 @@
 title: "Home"
 ---
 
-# Serum Academy
+# Serum学院
 
-## Goal
+## 宗旨
 
-The goal of **Serum Academy** is to teach people how to use Serum ecosystem and build projects on Solana and Serum.
+**Serum学院** 的宗旨是教育大众如何透过Serum生态系统在Solana公链和来Serum上建设项目。
 
-## Current tutorials
+## 最新教学
 
-Below is a list of the most recent tutorials available:
+以下是最新的教学内容：
 
-- [How to trade on Serum DEX](/serum-dex)
+- [如何在Serum DEX上进行交易](/serum-dex)
 
-## Contribute to the Serum Academy
+## 投稿Serum学院
 
-Feel free to update this content, just click the **Edit this page** link displayed on top right of each page, and pullrequest it
+你可以随意更新以上内容，只需按每页右上角的 **编辑此页面** 连结后，再提交pull request即可
 
 {{% notice tip %}}
-Your modification will be deployed automatically when merged.
+你的投稿和内容融合后将自动生效。
 {{% /notice %}}
