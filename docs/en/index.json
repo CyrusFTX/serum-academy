@@ -1,0 +1,50 @@
+[
+{
+	"uri": "/en/serum-dex/sol-wallet/",
+	"title": "SOL Wallet",
+	"tags": [],
+	"description": "",
+	"content": "Create your SOL wallet \u0026amp; Deposit Funds Serum is built on the Solana blockchain, so the first step is to create a SOL wallet. For this we recommend using Sollet.io.\nOnce you arrive on Sollet.io for the first time you have the possibility to create a new wallet. You will be given seed words, make sure to save them offline somewhere safe. This is the only way you can recover your wallet, don’t lose them!\nOnce you have noted down your seeds, you will have the possibility to add a password to your Sollet.io wallet. Even though this is optional, it is highly recommended for your own security.\nOnce the password is set (or not) you have successfully created your SOL wallet. The next step will be to send funds to it. SOL or other SPL tokens can be bought on several exchanges like Binance or FTX.\nNow, let’s add some SOL to our wallet. For this you need to click on Receive. A pop up will appear with your SOL address. Use this address to send SOL from an exchange.\nNow that you have some SOL in your wallet you can create another SPL address in your wallet. For this click on the + icon in the top right corner. A pop up will appear, you will have the possibility to add a popular SPL token such as: SRM or MSRM. Or to use a manual input.\nLet’s add some SRM to our wallet. For this you need to click on Add, this will simply create a new address attached to your wallet. Now you can see that below your SOL address a SRM address appeared. You can use this address to send and receive funds to your Sollet.io wallet.\nIf you would like to add another token, you can add it manually by entering the Mint Address of the token.\n.\nNow we have deposited some tokens in our Sollet.io wallet. Time to do a trade on Serum!\nThe Token Address or Mint Address is the contract address of a token i.e the token identifier.\n The Deposit Address is the address where you deposit a token to.\n "
+},
+{
+	"uri": "/en/serum-dex/connect-wallet/",
+	"title": "Connect your wallet",
+	"tags": [],
+	"description": "",
+	"content": "Connect your wallet to Serum Once you are in Serum DEX, make sure you are on mainnet-beta on the top right corner in order to trade real markets.\nClick Connect wallet (Make sure you have already switched to your desirable account in Sollet.io) and finish the connection process by clicking on Connect\nAnd you will see your wallet balance synced with your Sollet.io balance.\nYou can disconnect your wallet at any time by clicking on Disconnect on the top right corner of Serum DEX.\n"
+},
+{
+	"uri": "/en/serum-dex/trade/",
+	"title": "Trade",
+	"tags": [],
+	"description": "",
+	"content": "Trade Now that you have successfully connected your SOL wallet it’s time to trade. The trading experience is the same as a centralized exchange, with the same interface.\nLet’s buy 88 BASE tokens at a limit price of 3.1 QUOTE tokens each and make sure you approve this transaction on your Sollet.io popup.\nNow you can see your limit buy order on the Orderbook, also in the Open Orders.\nNote that cancelling your Open Orders or having the trade successfully matched and traded won’t update your wallet balance. These funds sit in an intermediary account and require you to settle them back to your own sollet wallet. You have to go to Balances to settle them back to your Sollet.io wallet.\n Your Balances after cancelling the limit buy order of “88 BASE tokens at limit price 3.1 QUOTE”    Your Balances after buying “11 BASE tokens at the price of 2.22 QUOTE”\n Before settlement  After settlement     Note that you need to settle your trades. Otherwise they will sit in an intermediary account.\n "
+},
+{
+	"uri": "/en/serum-dex/",
+	"title": "Trade on Serum DEX",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 1 How to use Serum DEX In this tutorial we will show you how to trade on Serum step by step.\ngraph TD A[Create SOL wallet] --|Send funds| B(Go to Serum DEX) B -- C[Connect SOL wallet] C -- D[Trade] D -- |Settle trade| E[Withdraw]  "
+},
+{
+	"uri": "/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": "Serum Academy Goal The goal of Serum Academy is to teach people how to use Serum ecosystem and build projects on Solana and Serum.\nCurrent tutorials Below is a list of the most recent tutorials available:\n How to trade on Serum DEX  Contribute to the Serum Academy Feel free to update this content, just click the Edit this page link displayed on top right of each page, and pullrequest it\nYour modification will be deployed automatically when merged.\n "
+},
+{
+	"uri": "/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
