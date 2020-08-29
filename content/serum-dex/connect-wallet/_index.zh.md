@@ -4,18 +4,18 @@ title: Connect your wallet
 weight: 2
 ---
 
-## Connect your wallet to Serum
+## 连接您的钱包至Serum
 
-Once you are in Serum DEX, make sure you are on **mainnet-beta** on the top right corner in order to trade real markets.
+当进入Serum DEX后，请留意页面右上角位置，确保您选择了 **mainnet-beta**，否则无法在市场上交易。
 
 ![serum-dex](/images/articles/serum-dex/connect-wallet/serum-dex.png?classes=shadow&width=50pc)
 
-Click **Connect** wallet (Make sure you have already switched to your desirable account in [Sollet.io](https://sollet.io)) and finish the connection process by clicking on **Connect**
+点击 **Connect** 连接钱包 (请确保已选择 [Sollet.io](https://sollet.io)钱包中正确的子帐户) 并点击 **Connect** 连接完成钱包连接流程。
 
 ![confirmation](/images/articles/serum-dex/connect-wallet/confirmation.png?classes=shadow&width=20pc)
 
-And you will see your wallet balance synced with your [Sollet.io](https://sollet.io) balance.
+随后您能在Serum上看到 [Sollet.io](https://sollet.io) 钱包资产余额更新。
 
-You can disconnect your wallet at any time by clicking on **Disconnect** on the top right corner of Serum DEX.
+点击页面右上角的 **Disconnect** 就能够随时切断您的钱包和Serum DEX的连接。
 
 ![disconnect](/images/articles/serum-dex/connect-wallet/disconnect.png?classes=shadow&width=25pc)
