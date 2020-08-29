@@ -1,6 +1,6 @@
 ---
 date: 2020-08-27T00:0:00+00:00
-title: Connect your wallet
+title: 连接您的钱包
 weight: 2
 ---
 

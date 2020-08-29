@@ -1,6 +1,6 @@
 ---
 date: 2020-08-27T00:0:00+00:00
-title: SOL Wallet
+title: SOL钱包
 weight: 1
 ---
 
