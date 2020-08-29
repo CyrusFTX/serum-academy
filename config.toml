@@ -9,7 +9,7 @@ defaultContentLanguageInSubdir= true
 
 
 [params]
-  editURL = "https://github.com/dr497/serum-academy" # ?
+  editURL = "https://github.com/dr497/serum-academy/tree/master/content/"
   description = "Serum Academy"
   author = "Serum lovers"
   showVisitedLinks = true
