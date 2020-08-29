@@ -4,44 +4,44 @@ title: SOL Wallet
 weight: 1
 ---
 
-## Create your SOL wallet & Deposit Funds
+## 创建您的SOL钱包和入金
 
-Serum is built on the [Solana blockchain](https://solana.com), so the first step is to create a SOL wallet. For this we recommend using [Sollet.io](https://sollet.io).
+Serum是建基于 [Solana公链](https://solana.com), 需要在Serum上交易的话，第一步是创建一个SOL钱包。我们建议使用 [Sollet.io](https://sollet.io)。
 
-Once you arrive on [Sollet.io](https://sollet.io) for the first time you have the possibility to create a new wallet. You will be given seed words, make sure to save them offline somewhere safe. This is the only way you can recover your wallet, don’t lose them!
+如果您是首次进入 [Sollet.io](https://sollet.io) 页面时就能创建新钱包。 创建新钱包时，您会获得seed words。请注意，务必将seed words保存在一个安全不会遗失的地方，它只会出现在首次创建钱包的时候，找回密码亦需要seed words验证。
 
 ![creat-wallet](/images/articles/serum-dex/sol-wallet/create-new-wallet.png?classes=shadow&width=25pc)
 
-Once you have noted down your seeds, you will have the possibility to add a password to your [Sollet.io](https://sollet.io) wallet. Even though this is optional, it is highly recommended for your own security.
+您将seed words保存在一个安全的地方后，您可以为您的 [Sollet.io](https://sollet.io) 钱包配置一组密码。虽然密码不是必需的，但因为安全理由，我们还是议您使用密码。
 
 ![password](/images/articles/serum-dex/sol-wallet/password.png?classes=shadow&width=25pc)
 
-Once the password is set (or not) you have successfully created your SOL wallet. The next step will be to send funds to it. SOL or other SPL tokens can be bought on several exchanges like [Binance](https://binance.com) or [FTX](https://ftx.com).
+不论您是否设定了密码，您已经成功创建了您的SOL钱包。下一步就是从其他交易所例如 [币安](https://binance.com) 或 [FTX](https://ftx.com) 转入SOL或其他SPL通证到您创建的钱包中。
 
 ![balance](/images/articles/serum-dex/sol-wallet/balance.png?classes=shadow&width=50pc)
 
-Now, let’s add some SOL to our wallet. For this you need to click on **Receive**. A pop up will appear with your SOL address. Use this address to send SOL from an exchange.
+下一步是转入SOL通证到刚创建的钱包。点击 **接收** 后会出现弹窗，上面有您专属的SOL地址。您需要从交易所转入SOL通证到这地址。
 
 ![deposit-sol](/images/articles/serum-dex/sol-wallet/deposit-sol.png?classes=shadow&width=50pc)
 
-Now that you have some SOL in your wallet you can create another SPL address in your wallet. For this click on the **+** icon in the top right corner. A pop up will appear, you will have the possibility to add a popular SPL token such as: **SRM** or **MSRM**. Or to use a manual input.
+成功将SOL通证转入钱包后，就需要为您的钱包创建SPL地址。点击页面右上角的 **+** 图示后会出现个弹窗，在弹窗内您可以选择为主要通证例如: **SRM** or **MSRM** 添加地址。您亦可以选择手动添加。
 
 ![add-token-popular](/images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&width=25pc)
 
-Let’s add some **SRM** to our wallet. For this you need to click on **Add**, this will simply create a new address attached to your wallet. Now you can see that below your SOL address a SRM address appeared. You can use this address to send and receive funds to your [Sollet.io](https://sollet.io) wallet.
+假设您需要转入 **SRM** 通证到钱包。您需要点击 **添加 (Add)**, 然后您就能看到您的SOL通证地址和SRM通证地址。您可以使用这地址来存入资金到您的 [Sollet.io](https://sollet.io) 钱包，或提取款项。
 
 ![srm-balance](/images/articles/serum-dex/sol-wallet/srm-balance.png?classes=shadow&width=50pc)
 
-If you would like to add another token, you can add it manually by entering the **Mint Address** of the token.
+如果您想要添加其他通证到钱包，您可以手动添加，只需要输入该通证的 **铸币地址** 即可。
 
 ![add-token-manual](/images/articles/serum-dex/sol-wallet/add-token-manual.png?classes=shadow&width=25pc).
 
-Now we have deposited some tokens in our [Sollet.io](https://sollet.io) wallet. Time to do a trade on Serum!
+现在我们已经成功入金至 [Sollet.io](https://sollet.io) 钱包。您已经准备好在Serum交易了！
 
 {{% notice warning %}}
-The Token Address or **Mint Address** is the **contract address** of a token i.e the **token identifier**.
+通证地址或 **铸币地址** 是通证的 **合约地址** ，可以理解为通证的 **身份证号** 。
 {{% /notice %}}
 
 {{% notice warning %}}
-The **Deposit Address** is the address where you deposit a token to.
+**入金地址** 是用来存入通证的地址。
 {{% /notice %}}
