@@ -30,11 +30,11 @@ Serum是建基于 [Solana公链](https://solana.com), 需要在Serum上交易的
 
 ![add-token-popular](/images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&width=25pc)
 
-假设您需要转入 **SRM** 通证到钱包。您需要点击 **添加 (Add)**, 这样您就将SRM地址添加到您的钱包了。以下您能看到您的SOL通证地址和SRM通证地址。您可以使用这些地址来存入资金到您的 [Sollet.io](https://sollet.io) 钱包，或提取款项。
+以下您能看到您的SOL通证地址和SRM通证地址。您可以使用这些地址来存入资金到您的 [Sollet.io](https://sollet.io) 钱包，或提取款项。
 
 ![srm-balance](/images/articles/serum-dex/sol-wallet/srm-balance.png?classes=shadow&width=50pc)
 
-如果您想要添加其他通证到钱包，您可以手动添加，只需要输入该通证的 **铸币地址（Mint Address）** 即可。
+如果您想要添加其他通证到钱包，您也可以手动添加，只需要输入该通证的 **铸币地址（Mint Address）** 即可。
 
 ![add-token-manual](/images/articles/serum-dex/sol-wallet/add-token-manual.png?classes=shadow&width=25pc).
 
