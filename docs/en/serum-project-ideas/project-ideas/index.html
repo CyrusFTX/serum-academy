@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon-32x32.png" />
 <link rel="icon" type="image/png" sizes="16x16" href="../../../favicon-16x16.png" />
 
-    <title>Connect your wallet :: Serum Academy</title>
+    <title>Project Ideas for Serum :: Serum Academy</title>
 
     
     <link href="../../../css/nucleus.css?1598805888" rel="stylesheet">
@@ -46,7 +46,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/en/serum-dex/connect-wallet/">
+  <body class="" data-url="/en/serum-project-ideas/project-ideas/">
     <nav id="sidebar" class="showVisitedLinks">
 
 
@@ -91,7 +91,7 @@
   
     
     <li data-nav-id="/en/serum-dex/" title="Trade on Serum DEX" class="dd-item 
-        parent
+        
         
         
         ">
@@ -150,8 +150,8 @@
   
     
     <li data-nav-id="/en/serum-dex/connect-wallet/" title="Connect your wallet" class="dd-item 
-        parent
-        active
+        
+        
         
         ">
       <a href="../../../en/serum-dex/connect-wallet/">
@@ -213,7 +213,7 @@
   
     
     <li data-nav-id="/en/serum-project-ideas/" title="Project Ideas" class="dd-item 
-        
+        parent
         
         
         ">
@@ -272,8 +272,8 @@
   
     
     <li data-nav-id="/en/serum-project-ideas/project-ideas/" title="Project Ideas for Serum" class="dd-item 
-        
-        
+        parent
+        active
         
         ">
       <a href="../../../en/serum-project-ideas/project-ideas/">
@@ -349,22 +349,10 @@
                   
                     
                     
-                      <option id="en" value="/en/serum-dex/connect-wallet/" selected>English</option>
+                      <option id="en" value="/en/serum-project-ideas/project-ideas/" selected>English</option>
                     
                   
               
-                  
-              
-          
-              
-              
-                  
-              
-                  
-                    
-                    
-                      <option id="zh" value="/zh/serum-dex/connect-wallet/">Chinese</option>
-                    
                   
               
           
@@ -420,7 +408,7 @@
                   
                   
                   <div id="top-github-link">
-                    <a class="github-link" title='Edit this page' href="https://github.com/dr497/serum-academy/tree/master/content/serum-dex/connect-wallet/_index.en.md" target="blank">
+                    <a class="github-link" title='Edit this page' href="https://github.com/dr497/serum-academy/tree/master/content/serum-project-ideas/project-ideas/_index.en.md" target="blank">
                       <i class="fas fa-code-branch"></i>
                       <span id="top-github-link-text">Edit this page</span>
                     </a>
@@ -451,7 +439,7 @@
             
           
           
-            <a href='../../../en/'>Home</a> > <a href='../../../en/serum-dex/'>Trade on Serum DEX</a> > Connect your wallet
+            <a href='../../../en/'>Home</a> > <a href='../../../en/serum-project-ideas/'>Project Ideas</a> > Project Ideas for Serum
           
         
           
@@ -466,7 +454,24 @@
     <div class="wrapper">
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#connect-your-wallet-to-serum">Connect your wallet to Serum</a></li>
+    <li><a href="#project-ideas">Project Ideas</a>
+      <ul>
+        <li><a href="#amm-bot">AMM Bot</a></li>
+        <li><a href="#dumplings">Dumplings</a></li>
+        <li><a href="#borrowlending">Borrow/Lending</a></li>
+        <li><a href="#cross-chain-bridges">Cross-Chain Bridges</a></li>
+        <li><a href="#cross-chain-lending">Cross-Chain Lending</a></li>
+        <li><a href="#serum-oracle">Serum Oracle</a></li>
+        <li><a href="#serum-rfq">Serum RFQ</a></li>
+        <li><a href="#decentralized-wrappers">Decentralized Wrappers</a></li>
+        <li><a href="#synthetic-assets">Synthetic Assets</a></li>
+        <li><a href="#volatility-products">Volatility Products</a></li>
+        <li><a href="#zero-knowledge-liquidation-engine">Zero Knowledge Liquidation Engine</a></li>
+        <li><a href="#native-metamask-integration">Native Metamask Integration</a></li>
+        <li><a href="#mobile-app">Mobile App</a></li>
+        <li><a href="#badges">Badges</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
     </div>
@@ -484,7 +489,7 @@
           
             <h1>
               
-              Connect your wallet
+              Project Ideas for Serum
             </h1>
           
 
@@ -492,15 +497,76 @@
 
 
 
-	<h2 id="connect-your-wallet-to-serum">Connect your wallet to Serum</h2>
-<p>The DEX is accessible at: <a href="https://dex.projectserum.com">https://dex.projectserum.com/</a></p>
-<p>Once you are in Serum DEX, make sure you are on <strong>mainnet-beta</strong> on the top right corner in order to trade real markets.</p>
-<p><img src="../../../images/articles/serum-dex/connect-wallet/serum-dex.png?classes=shadow&amp;width=50pc" alt="serum-dex"></p>
-<p>Click <strong>Connect</strong> wallet (Make sure you have already switched to your desirable account in <a href="https://sollet.io">Sollet.io</a>) and finish the connection process by clicking on <strong>Connect</strong></p>
-<p><img src="../../../images/articles/serum-dex/connect-wallet/confirmation.png?classes=shadow&amp;width=20pc" alt="confirmation"></p>
-<p>And you will see your wallet balance synced with your <a href="https://sollet.io">Sollet.io</a> balance.</p>
-<p>You can disconnect your wallet at any time by clicking on <strong>Disconnect</strong> on the top right corner of Serum DEX.</p>
-<p><img src="../../../images/articles/serum-dex/connect-wallet/disconnect.png?classes=shadow&amp;width=25pc" alt="disconnect"></p>
+	<h2 id="project-ideas">Project Ideas</h2>
+<h3 id="amm-bot">AMM Bot</h3>
+<p>Building an open source system that people can use to achieve AMM-like behavior on Serum’s orderbooks.</p>
+<p>Details can be found on Ecoserum website: <a href="https://www.ecoserum.dev/">https://www.ecoserum.dev/</a></p>
+<h3 id="dumplings">Dumplings</h3>
+<p>A yield farming token that is integrated into an AMM system on Serum.</p>
+<p>Here is an idea of what it could look like:</p>
+<ul>
+<li>
+<p>Build a &ldquo;pool&rdquo; which starts at 100 SRM + 100 SOL per pool token. It&rsquo;s just an ETF — you can&rsquo;t actually trade against the pool.</p>
+</li>
+<li>
+<p>The pool automatically does the on-chain AMM-style market making on the Serum SRM/SOL market. Basically this means; a liquidity providing strategy such that, if SRM/SOL goes from price A → B → A, the pool’s valuation will at worst be unchanged. The pool will be fully on-chain and its behavior will be well defined from creation.</p>
+</li>
+<li>
+<p>You can &lsquo;create&rsquo; into the pool by delivering the basket. So at the beginning if you send in 200 SRM + 200 SOL you get 2 SPT (Serum Pool Tokens). If after an hour of trading the pool was 150 SRM + 80 SOL then to create 2 SPT you&rsquo;d deposit 300 SRM + 160 SOL.</p>
+</li>
+<li>
+<p>You can redeem your SPTs for the fractional share of the pool.</p>
+</li>
+<li>
+<p>The pool gets the proceeds of its trading, including maker rebates</p>
+</li>
+<li>
+<p>Each day, 10,000 Dumplings are added to the pool for the first 100 days; then no more Dumplings are created. When a Dumpling contract is first created, 100,000 Dumplings (DUM) are airdropped on all SRM holders to seed liquidity for joining the pool.</p>
+</li>
+</ul>
+<p>This means that:</p>
+<ul>
+<li>
+<p>If you redeem your SPTs after 5 days and you were half the pool, you&rsquo;d get back your SRM/SOL, and also 25,000 Dumplings. You can trade those on the DUM/USDC market or whatever.</p>
+</li>
+<li>
+<p>If after 5 days you want to <em>join</em> the SRM/SOL MM pool for, say, 100 SRM + 100 SOL, you&rsquo;d have to send in: 100 SRM, 100 SOL, and some DUM (maybe 15,000, depending on how large the pool had been/how many DUM are in 1 SPT).</p>
+</li>
+</ul>
+<p>This means that entering the MM pool is gated by buying/owning Dumplings, and you get Dumplings each day for providing liquidity.</p>
+<h3 id="borrowlending">Borrow/Lending</h3>
+<p>Serum needs a borrow/lending protocol. This could be either:</p>
+<ul>
+<li>
+<p>A home-brewed version</p>
+</li>
+<li>
+<p>One of the major Ethereum based protocols (Compound, Aave Aave, etc.) building a mirror on Solana</p>
+</li>
+</ul>
+<p>Furthermore, this can then be composed on top of Serum orderbooks to create margin trading.</p>
+<h3 id="cross-chain-bridges">Cross-Chain Bridges</h3>
+<p>It would be awesome to have fully on-chain bridges between Solana and as many other chains as possible. See prospective specs for one here, but there are many other versions!</p>
+<h3 id="cross-chain-lending">Cross-Chain Lending</h3>
+<p>Assets can be pre-funded across the bridge and allow users to avoid waiting for cross-chain synchronization for a fee. For example, a user could deposit X eth into the bridge as collateral, and be able to withdraw any pre-funded assets up to some limit.</p>
+<h3 id="serum-oracle">Serum Oracle</h3>
+<p>An on-chain oracle that takes prices from Serum markets, does sophisticated risk and sanity checks on them, and creates a clean price feed that other projects working on Serum can use. Furthermore, once there are on-chain cross-chain bridges, those can be combined with this to create a fully on-chain cross-chain pricing oracle.</p>
+<h3 id="serum-rfq">Serum RFQ</h3>
+<p>Generate a tradable RFQ from the Serum order book. The generated quote can be valid for a limited time and backed by an insurance pool. It would have a size attached, and potentially be larger and wider than would be typical for orderbook trading.</p>
+<h3 id="decentralized-wrappers">Decentralized Wrappers</h3>
+<p>An on-chain method of wrapping an ERC20 token into an SPL token and vice versa.</p>
+<h3 id="synthetic-assets">Synthetic Assets</h3>
+<p>Building out support for tokenized synthetic assets on Serum.</p>
+<h3 id="volatility-products">Volatility Products</h3>
+<p>Building out markets or tokenized products representing volatility or other nonlinear functions of markets.</p>
+<h3 id="zero-knowledge-liquidation-engine">Zero Knowledge Liquidation Engine</h3>
+<p>PoC for ZK liquiditations, where it’s zk to the network, but not zk to the defi platform operators. The engine should be able to use the on chain order book price or funding rate as a witness, and generate a proof that states the contract is now ‘in the money’ or ‘out of the money’ and take an action from there.</p>
+<h3 id="native-metamask-integration">Native Metamask Integration</h3>
+<p>See this introduction to Web3 Plugins for more details</p>
+<h3 id="mobile-app">Mobile App</h3>
+<p>A mobile app for Serum that also lets you self-custody on mobile.</p>
+<h3 id="badges">Badges</h3>
+<p>Badges to represent participation in various aspects of Serum; e.g. liquidity providing, node operating.</p>
 
 
 
@@ -541,6 +607,75 @@
             
                 
                     
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
                     
                 
                 
@@ -576,75 +711,6 @@
             
                 
                     
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
                     
                 
                 
@@ -669,10 +735,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="../../../en/serum-dex/sol-wallet/" title="SOL Wallet"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="../../../en/serum-project-ideas/serum-ecosystem/" title="Serum Ecosystem"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="../../../en/serum-dex/trade/" title="Trade" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="../../../en/serum-project-ideas/serum-ecosystem/" title="Serum Ecosystem" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>

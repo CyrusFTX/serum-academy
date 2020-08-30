@@ -14,6 +14,14 @@ Below is a list of the most recent tutorials available:
 
 - [How to trade on Serum DEX](/serum-dex)
 
+## List of project ideas for Serum
+
+- [Project Ideas](/serum-project-ideas)
+
+## Trade on Serum
+
+- [Serum DEX](https://dex.projectserum.com)
+
 ## Contribute to the Serum Academy
 
 Feel free to update this content, just click the **Edit this page** link displayed on top right of each page, and pullrequest it

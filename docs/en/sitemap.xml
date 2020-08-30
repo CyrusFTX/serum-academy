@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/serum-project-ideas/serum-ecosystem/</loc>
+  </url>
+  
+  <url>
     <loc>/en/serum-dex/sol-wallet/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,6 +17,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/serum-dex/sol-wallet/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/serum-dex/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-dex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-dex/"
                 />
   </url>
   
@@ -31,6 +49,14 @@
   </url>
   
   <url>
+    <loc>/en/serum-project-ideas/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/serum-project-ideas/project-ideas/</loc>
+  </url>
+  
+  <url>
     <loc>/en/serum-dex/trade/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,20 +67,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/serum-dex/trade/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/serum-dex/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/serum-dex/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/serum-dex/"
                 />
   </url>
   

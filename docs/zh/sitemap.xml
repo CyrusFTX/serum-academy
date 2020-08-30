@@ -17,6 +17,20 @@
   </url>
   
   <url>
+    <loc>/zh/serum-dex/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-dex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-dex/"
+                />
+  </url>
+  
+  <url>
     <loc>/zh/serum-dex/connect-wallet/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,20 +55,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/serum-dex/trade/"
-                />
-  </url>
-  
-  <url>
-    <loc>/zh/serum-dex/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/serum-dex/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="/zh/serum-dex/"
                 />
   </url>
   
