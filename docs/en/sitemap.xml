@@ -57,6 +57,10 @@
   </url>
   
   <url>
+    <loc>/en/dex-list/</loc>
+  </url>
+  
+  <url>
     <loc>/en/serum-dex/trade/</loc>
     <xhtml:link
                 rel="alternate"
