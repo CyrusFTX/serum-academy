@@ -1,5 +1,5 @@
 <p align="center">
-<img height="200" src="/static/logo.png">
+<img height="200" src="/static/logo.png" alt="logo">
 </p>
 
 # Serum Academy :book:
