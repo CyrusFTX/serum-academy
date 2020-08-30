@@ -16,32 +16,32 @@ Serum是建基于 [Solana公链](https://solana.com), 需要在Serum上交易的
 
 ![password](/images/articles/serum-dex/sol-wallet/password.png?classes=shadow&width=25pc)
 
-不论您是否设定了密码，您已经成功创建了您的SOL钱包。下一步就是从其他交易所例如 [币安](https://binance.com) 或 [FTX](https://ftx.com) 转入SOL或其他SPL通证到您创建的钱包中。
+不论您是否设定了密码，您已经成功创建了您的SOL钱包。下一步就是将SOL转入到您创建的钱包中。SOL可以在 [币安](https://binance.com) 或 [FTX](https://ftx.com) 等交易所买到。
 
 ![balance](/images/articles/serum-dex/sol-wallet/balance.png?classes=shadow&width=50pc)
 
-下一步是转入SOL通证到刚创建的钱包。点击 **接收** 后会出现弹窗，上面有您专属的SOL地址。您需要从交易所转入SOL通证到这地址。
+我们现在转一些SOL通证到刚创建的钱包。点击 **接收（Receive）** 后会出现弹窗，上面有您专属的SOL地址。您可以从交易所转入SOL通证到这地址。**该地址仅能接受SOL通证，请不要将其他SPL制式通证（例如SRM）转入到该地址**
 
 ![deposit-sol](/images/articles/serum-dex/sol-wallet/deposit-sol.png?classes=shadow&width=50pc)
 
-成功将SOL通证转入钱包后，就需要为您的钱包创建SPL地址。点击页面右上角的 **+** 图示后会出现个弹窗，在弹窗内您可以选择为主要通证例如: **SRM** or **MSRM** 添加地址。您亦可以选择手动添加。
+成功将SOL通证转入钱包后，您可以在钱包创建其他SPL制式通证地址。点击页面右上角的 **+** 图示后会出现个弹窗，在弹窗内您可以选择为主要通证（Popular Tokens）例如: **SRM** or **MSRM** 添加地址。或者可以选择手动添加（Manual Input）。
 
 ![add-token-popular](/images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&width=25pc)
 
-假设您需要转入 **SRM** 通证到钱包。您需要点击 **添加 (Add)**, 然后您就能看到您的SOL通证地址和SRM通证地址。您可以使用这地址来存入资金到您的 [Sollet.io](https://sollet.io) 钱包，或提取款项。
+假设您需要转入 **SRM** 通证到钱包。您需要点击 **添加 (Add)**, 这样您就将SRM地址添加到您的钱包了。以下您能看到您的SOL通证地址和SRM通证地址。您可以使用这些地址来存入资金到您的 [Sollet.io](https://sollet.io) 钱包，或提取款项。
 
 ![srm-balance](/images/articles/serum-dex/sol-wallet/srm-balance.png?classes=shadow&width=50pc)
 
-如果您想要添加其他通证到钱包，您可以手动添加，只需要输入该通证的 **铸币地址** 即可。
+如果您想要添加其他通证到钱包，您可以手动添加，只需要输入该通证的 **铸币地址（Mint Address）** 即可。
 
 ![add-token-manual](/images/articles/serum-dex/sol-wallet/add-token-manual.png?classes=shadow&width=25pc).
 
 现在我们已经成功入金至 [Sollet.io](https://sollet.io) 钱包。您已经准备好在Serum交易了！
 
 {{% notice warning %}}
-通证地址或 **铸币地址** 是通证的 **合约地址** ，可以理解为通证的 **身份证号** 。
+通证地址（Token Address）或 **铸币地址（Mint Address）** 是通证的 **合约地址** ，可以理解为通证的 **识别码** 。
 {{% /notice %}}
 
 {{% notice warning %}}
-**入金地址** 是用来存入通证的地址。
+**入金地址（Deposit Address）** 用来存入通证的地址。
 {{% /notice %}}
