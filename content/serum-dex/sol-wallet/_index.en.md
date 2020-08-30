@@ -24,7 +24,7 @@ Now, let’s add some SOL to our wallet. For this you need to click on **Receive
 
 ![deposit-sol](/images/articles/serum-dex/sol-wallet/deposit-sol.png?classes=shadow&width=50pc)
 
-Now that you have some SOL in your wallet you can create another SPL address in your wallet. For this click on the **+** icon in the top right corner. A pop up will appear, you will have the possibility to add a popular SPL token such as: **SRM** or **MSRM**. Or to use a manual input.
+Now that you have some SOL in your wallet you can create another SPL address in your wallet. For this click on the **+** icon in the top right corner. A pop up will appear, you will have the possibility to add a popular SPL token such as: **SRM**, **MSRM**, **FTT**, **BTC**, **ETH**, **LINK** **XRP**, **USDT**, **USDC**. Or to use a manual input.
 
 ![add-token-popular](/images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&width=25pc)
 
