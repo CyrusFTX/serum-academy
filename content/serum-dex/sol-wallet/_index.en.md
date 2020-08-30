@@ -16,7 +16,7 @@ Once you have noted down your seeds, you will have the possibility to add a pass
 
 ![password](/images/articles/serum-dex/sol-wallet/password.png?classes=shadow&width=25pc)
 
-Once the password is set (or not) you have successfully created your SOL wallet. The next step will be to send funds to it. SOL or other SPL tokens can be bought on several exchanges like [Binance](https://binance.com) or [FTX](https://ftx.com).
+Once the password is set (or not) you have successfully created your SOL wallet. The next step will be to send SOL to your deposit address. SOL can be bought on several exchanges like [Binance](https://binance.com) or [FTX](https://ftx.com).
 
 ![balance](/images/articles/serum-dex/sol-wallet/balance.png?classes=shadow&width=50pc)
 
