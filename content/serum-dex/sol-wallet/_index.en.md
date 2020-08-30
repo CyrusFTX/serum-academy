@@ -41,7 +41,7 @@ If you would like to add another token, you can add it manually by entering the 
 Now we have deposited some tokens in our [Sollet.io](https://sollet.io) wallet. Time to do a trade on Serum!
 
 {{% notice warning %}}
-The Token Address or **Mint Address** is the **contract address** of a token i.e the **token identifier**.
+The Token Address or **Mint Address** is the **contract address** of a token i.e the **token identifier, do not send tokens to this address**.
 {{% /notice %}}
 
 {{% notice warning %}}
