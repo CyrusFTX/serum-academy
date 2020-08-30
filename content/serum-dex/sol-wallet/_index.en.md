@@ -28,7 +28,7 @@ Now that you have some SOL in your wallet you can create another SPL address in 
 
 ![add-token-popular](/images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&width=25pc)
 
-Let’s add some **SRM** to our wallet. For this you need to click on **Add**, this will simply create a new address attached to your wallet. Now you can see that below your SOL address a SRM address appeared. You can use this address to send and receive funds to your [Sollet.io](https://sollet.io) wallet.
+Let’s add some **SRM** to our wallet. For this you need to click on **Add**, this will simply create a new address attached to your wallet. Now you can see that below your SOL address a SRM address appeared. You can use this address to send and receive SRM to/from your [Sollet.io](https://sollet.io) wallet (**Only send SRM to this address, do not send other SPL tokens or SOL to this address).
 
 ![srm-balance](/images/articles/serum-dex/sol-wallet/srm-balance.png?classes=shadow&width=50pc)
 
