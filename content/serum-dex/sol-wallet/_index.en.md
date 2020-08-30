@@ -30,13 +30,11 @@ Please note that to convert wrapped SPL assets back into their native chain, you
 
 ![add-token-popular](/images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&width=25pc)
 
-
-Let’s add some **SRM** to our wallet. For this you need to click on **Add (+)**, this will simply create a new address attached to your wallet. Now you can see that below your SOL address a SRM address appeared. You can use this address to send and receive funds to your [Sollet.io](https://sollet.io) wallet.
-
+You can see that below your SOL address a SRM address appeared. You can use this address to send and receive funds to your [Sollet.io](https://sollet.io) wallet.
 
 ![srm-balance](/images/articles/serum-dex/sol-wallet/srm-balance.png?classes=shadow&width=50pc)
 
-If you would like to add another token, you can add it manually by entering the **Mint Address** of the token.
+If you would like to add another token that's not on the Popular Token list, you can add it manually by entering the **Mint Address** of the token.
 
 ![add-token-manual](/images/articles/serum-dex/sol-wallet/add-token-manual.png?classes=shadow&width=25pc).
 
