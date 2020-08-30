@@ -91,3 +91,16 @@ A mobile app for Serum that also lets you self-custody on mobile.
 ### Badges
 
 Badges to represent participation in various aspects of Serum; e.g. liquidity providing, node operating.
+
+### GUI & Other Ideas
+
+Below is a list of GUI & other features that could be developed:
+
+- Button on [Sollet.io](https://sollet.io) to mint your own SPL token
+- Graphs on the DEX GUI
+- Button to create a Serum market
+- Market orders on GUI
+- Ledger support for [Sollet.io](https://sollet.io)
+- Volume and other metric trackers for Serum
+
+See Project Serum [GitHub account](https://github.com/project-serum/) for the source of [Sollet.io](https://sollet.io) and the [DEX GUI](/en/dex-list)
