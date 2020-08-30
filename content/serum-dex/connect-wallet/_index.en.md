@@ -6,6 +6,8 @@ weight: 2
 
 ## Connect your wallet to Serum
 
+The DEX is accessible at: [https://dex.projectserum.com/](https://dex.projectserum.com)
+
 Once you are in Serum DEX, make sure you are on **mainnet-beta** on the top right corner in order to trade real markets.
 
 ![serum-dex](/images/articles/serum-dex/connect-wallet/serum-dex.png?classes=shadow&width=50pc)
