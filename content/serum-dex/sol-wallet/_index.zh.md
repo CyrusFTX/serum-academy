@@ -24,7 +24,9 @@ Serum是建基于 [Solana公链](https://solana.com), 需要在Serum上交易的
 
 ![deposit-sol](/images/articles/serum-dex/sol-wallet/deposit-sol.png?classes=shadow&width=50pc)
 
-成功将SOL通证转入钱包后，您可以在钱包创建其他SPL制式通证地址。点击页面右上角的 **+** 图示后会出现个弹窗，在弹窗内您可以选择为主要通证（Popular Tokens）例如: **SRM** or **MSRM** 添加地址。或者可以选择手动添加（Manual Input）。
+成功将SOL通证转入钱包后，您可以在钱包创建其他SPL制式通证地址。点击页面右上角的 **+** 图示后会出现个弹窗，在弹窗内您可以选择添加主要通证（Popular Tokens）例如: **SRM**, **MSRM**, **FTT**, **BTC**, **ETH**, **LINK** **XRP**, **USDT** 。成功添加以后请获取这些SPL制式通证的入金地址（Deposit Address）。
+请将USDC, USDT, XRP, LINK, YFI, FTT, ETH, BTC原生通证存入您的FTX账户钱包，并从FTX将USDC, USDT, XRP, LINK, YFI, FTT, ETH, BTC提取到sollet的对应SPL制式通证的入金地址。FTX会自动将这些通证转化为SPL制式通证。
+当您需要把这些SPL制式通证转化回原生通证仅需将他们提取到FTX地址即可。
 
 ![add-token-popular](/images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&width=25pc)
 
