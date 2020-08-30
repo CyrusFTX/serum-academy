@@ -20,7 +20,7 @@ Once the password is set (or not) you have successfully created your SOL wallet.
 
 ![balance](/images/articles/serum-dex/sol-wallet/balance.png?classes=shadow&width=50pc)
 
-Now, let’s add some SOL to our wallet. For this you need to click on **Receive**. A pop up will appear with your SOL address. Use this address to send SOL from an exchange.
+Now, let’s add some SOL to our wallet. For this you need to click on **Receive**. A pop up will appear with your SOL address. Use this address to send SOL from an exchange. (**Only send SOL to this address, do not send SPL tokens (e.g. SRM) to this address**)
 
 ![deposit-sol](/images/articles/serum-dex/sol-wallet/deposit-sol.png?classes=shadow&width=50pc)
 
