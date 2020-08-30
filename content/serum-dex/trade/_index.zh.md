@@ -14,7 +14,7 @@ weight: 3
 
 ![approve-transaction](/images/articles/serum-dex/trade/approve-transaction.png?classes=shadow&width=40pc)
 
-可以在订单簿看到您的限价单和其他订单。
+现在您可以在订单簿以及当前委托看到您的限价单。
 
 ![order](/images/articles/serum-dex/trade/order.png?classes=shadow&width=60pc)
 
