@@ -102,5 +102,6 @@ Below is a list of GUI & other features that could be developed:
 - Market orders on GUI
 - Ledger support for [Sollet.io](https://sollet.io)
 - Volume and other metric trackers for Serum
+- A tool to validate GUIs against the source code
 
 See Project Serum [GitHub account](https://github.com/project-serum/) for the source of [Sollet.io](https://sollet.io) and the [DEX GUI](/en/dex-list)
