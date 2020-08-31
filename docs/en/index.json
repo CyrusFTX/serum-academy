@@ -46,7 +46,7 @@
 	"title": "DEX list",
 	"tags": [],
 	"description": "",
-	"content": "DEX List Below is a list of Serum DEXes:\n  Serum Today: https://serum.today\n  Project Serum DEX: https://dex.projectserum.com\n  The GUI of the DEX is open source and can be found on GitHub. If you are hosting a DEX and want to be in the list, please contact us.\n"
+	"content": "DEX List Below is a list of Serum DEXes:\n  Serum Today: https://serum.today\n  Serum Folkvang.io: https://serum-mirror.folkvang.io/\n  Project Serum DEX: https://dex.projectserum.com\n  The GUI of the DEX is open source and can be found on GitHub. If you are hosting a DEX and want to be in the list, please contact us.\n"
 },
 {
 	"uri": "/en/serum-dex/trade/",
