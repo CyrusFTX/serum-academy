@@ -1,12 +1,12 @@
 ---
 date: 2020-08-30T00:0:00+00:00
-title: DEX list
+title: DEX网址名单
 weight: 3
 ---
 
-## DEX List
+## DEX网址名单
 
-Below is a list of Serum DEXes:
+以下是能够接入Serum DEXes的网址：
 
 - Serum Today: [https://serum.today](https://serum.today)
 
@@ -14,4 +14,4 @@ Below is a list of Serum DEXes:
 
 - Project Serum DEX: [https://dex.projectserum.com](https://dex.projectserum.com)
 
-The GUI of the DEX is open source and can be found on [GitHub](https://github.com/project-serum/serum-dex-ui). If you are hosting a DEX and want to be in the list, please contact us.
+Serum DEX的GUI的原始码是开放的，并存放在 [GitHub](https://github.com/project-serum/serum-dex-ui)。如果您也是DEX网站管理人，又希望把名字加到名单上，请与我们联络。
