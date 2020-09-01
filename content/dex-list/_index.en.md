@@ -10,7 +10,9 @@ Below is a list of Serum DEXes:
 
 - Serum Today: [https://serum.today](https://serum.today)
 
-- Serum Folkvang.io: [https://serum-mirror.folkvang.io/](https://serum-mirror.folkvang.io/)
+- Serum Pro: [https://serumpro.org](https://serumpro.org)
+
+- Serum Folkvang.io: [https://serum-mirror.folkvang.io](https://serum-mirror.folkvang.io/)
 
 - Project Serum DEX: [https://dex.projectserum.com](https://dex.projectserum.com)
 
