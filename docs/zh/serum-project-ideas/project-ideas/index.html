@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon-32x32.png" />
 <link rel="icon" type="image/png" sizes="16x16" href="../../../favicon-16x16.png" />
 
-    <title>SOL钱包 :: Serum Academy</title>
+    <title>Serum生态项目构想 :: Serum Academy</title>
 
     
     <link href="../../../css/nucleus.css?1599039091" rel="stylesheet">
@@ -46,7 +46,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/zh/serum-dex/sol-wallet/">
+  <body class="" data-url="/zh/serum-project-ideas/project-ideas/">
     <nav id="sidebar" class="showVisitedLinks">
 
 
@@ -91,7 +91,7 @@
   
     
     <li data-nav-id="/zh/serum-dex/" title="在Serum DEX上交易" class="dd-item 
-        parent
+        
         
         
         ">
@@ -122,8 +122,8 @@
   
     
     <li data-nav-id="/zh/serum-dex/sol-wallet/" title="SOL钱包" class="dd-item 
-        parent
-        active
+        
+        
         
         ">
       <a href="../../../zh/serum-dex/sol-wallet/">
@@ -213,7 +213,7 @@
   
     
     <li data-nav-id="/zh/serum-project-ideas/" title="Serum生态项目构想" class="dd-item 
-        
+        parent
         
         
         ">
@@ -244,8 +244,8 @@
   
     
     <li data-nav-id="/zh/serum-project-ideas/project-ideas/" title="Serum生态项目构想" class="dd-item 
-        
-        
+        parent
+        active
         
         ">
       <a href="../../../zh/serum-project-ideas/project-ideas/">
@@ -347,7 +347,7 @@
                   
                     
                     
-                      <option id="en" value="/en/serum-dex/sol-wallet/">English</option>
+                      <option id="en" value="/en/serum-project-ideas/project-ideas/">English</option>
                     
                   
               
@@ -361,7 +361,7 @@
                   
                     
                     
-                      <option id="zh" value="/zh/serum-dex/sol-wallet/" selected>Chinese</option>
+                      <option id="zh" value="/zh/serum-project-ideas/project-ideas/" selected>Chinese</option>
                     
                   
               
@@ -418,7 +418,7 @@
                   
                   
                   <div id="top-github-link">
-                    <a class="github-link" title='Edit this page' href="https://github.com/dr497/serum-academy/tree/master/content/serum-dex/sol-wallet/_index.zh.md" target="blank">
+                    <a class="github-link" title='Edit this page' href="https://github.com/dr497/serum-academy/tree/master/content/serum-project-ideas/project-ideas/_index.zh.md" target="blank">
                       <i class="fas fa-code-branch"></i>
                       <span id="top-github-link-text">Edit this page</span>
                     </a>
@@ -449,7 +449,7 @@
             
           
           
-            <a href='../../../zh/'>Home</a> > <a href='../../../zh/serum-dex/'>在Serum DEX上交易</a> > SOL钱包
+            <a href='../../../zh/'>Home</a> > <a href='../../../zh/serum-project-ideas/'>Serum生态项目构想</a> > Serum生态项目构想
           
         
           
@@ -464,7 +464,25 @@
     <div class="wrapper">
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#创建您的sol钱包和入金">创建您的SOL钱包和入金</a></li>
+    <li><a href="#项目构想">项目构想</a>
+      <ul>
+        <li><a href="#自动化做市商amm机器人">自动化做市商（AMM）机器人</a></li>
+        <li><a href="#饺子dum">饺子（DUM）</a></li>
+        <li><a href="#借贷">借贷</a></li>
+        <li><a href="#跨链桥">跨链桥</a></li>
+        <li><a href="#跨链借贷">跨链借贷</a></li>
+        <li><a href="#serum的预言机">Serum的预言机</a></li>
+        <li><a href="#serum的报价请求系统rfq">Serum的报价请求系统（RFQ）</a></li>
+        <li><a href="#分布式打包">分布式打包</a></li>
+        <li><a href="#合成资产">合成资产</a></li>
+        <li><a href="#波动率产品">波动率产品</a></li>
+        <li><a href="#零知识清算引擎">零知识清算引擎</a></li>
+        <li><a href="#原生metamask整合">原生Metamask整合</a></li>
+        <li><a href="#移动app">移动APP</a></li>
+        <li><a href="#勋章">勋章</a></li>
+        <li><a href="#gui和其他构想">GUI和其他构想</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
     </div>
@@ -482,7 +500,7 @@
           
             <h1>
               
-              SOL钱包
+              Serum生态项目构想
             </h1>
           
 
@@ -490,33 +508,88 @@
 
 
 
-	<h2 id="创建您的sol钱包和入金">创建您的SOL钱包和入金</h2>
-<p>Serum是建基于 <a href="https://solana.com">Solana公链</a>, 需要在Serum上交易的话，第一步是创建一个SOL钱包。我们建议使用 <a href="https://sollet.io">Sollet.io</a>。</p>
-<p>如果您是首次进入 <a href="https://sollet.io">Sollet.io</a> 页面时就能创建新钱包。 创建新钱包时，您会获得seed words。请注意，务必将seed words保存在一个安全不会遗失的地方，它只会出现在首次创建钱包的时候，找回密码亦需要seed words验证。</p>
-<p><img src="../../../images/articles/serum-dex/sol-wallet/create-new-wallet.png?classes=shadow&amp;width=25pc" alt="creat-wallet"></p>
-<p>您将seed words保存在一个安全的地方后，您可以为您的 <a href="https://sollet.io">Sollet.io</a> 钱包配置一组密码。虽然密码不是必需的，但因为安全理由，我们还是议您使用密码。</p>
-<p><img src="../../../images/articles/serum-dex/sol-wallet/password.png?classes=shadow&amp;width=25pc" alt="password"></p>
-<p>不论您是否设定了密码，您已经成功创建了您的SOL钱包。下一步就是将SOL转入到您创建的钱包中。SOL可以在 <a href="https://binance.com">币安</a> 或 <a href="https://ftx.com">FTX</a> 等交易所买到。</p>
-<p><img src="../../../images/articles/serum-dex/sol-wallet/balance.png?classes=shadow&amp;width=50pc" alt="balance"></p>
-<p>我们现在转一些SOL通证到刚创建的钱包。点击 <strong>接收（Receive）</strong> 后会出现弹窗，上面有您专属的SOL地址。您可以从交易所转入SOL通证到这地址。<strong>该地址仅能接受SOL通证，请不要将其他SPL制式通证（例如SRM）转入到该地址</strong></p>
-<p><img src="../../../images/articles/serum-dex/sol-wallet/deposit-sol.png?classes=shadow&amp;width=50pc" alt="deposit-sol"></p>
-<p>成功将SOL通证转入钱包后，您可以在钱包创建其他SPL制式通证地址。点击页面右上角的 <strong>+</strong> 图示后会出现个弹窗，在弹窗内您可以选择添加主要通证（Popular Tokens）例如: <strong>SRM</strong>, <strong>MSRM</strong>, <strong>FTT</strong>, <strong>BTC</strong>, <strong>ETH</strong>, <strong>LINK</strong> <strong>XRP</strong>, <strong>USDT</strong> 。成功添加以后请获取这些SPL制式通证的入金地址（Deposit Address）。
-请将USDC, USDT, XRP, LINK, YFI, FTT, ETH, BTC原生通证存入您的FTX账户钱包，并从FTX将USDC, USDT, XRP, LINK, YFI, FTT, ETH, BTC提取到sollet的对应SPL制式通证的入金地址。FTX会自动将这些通证转化为SPL制式通证。
-当您需要把这些SPL制式通证转化回原生通证仅需将他们提取到FTX地址即可。</p>
-<p><img src="../../../images/articles/serum-dex/sol-wallet/add-token-popular.png?classes=shadow&amp;width=25pc" alt="add-token-popular"></p>
-<p>以下您能看到您的SOL通证地址和SRM通证地址。您可以使用这些地址来存入资金到您的 <a href="https://sollet.io">Sollet.io</a> 钱包，或提取款项。</p>
-<p><img src="../../../images/articles/serum-dex/sol-wallet/srm-balance.png?classes=shadow&amp;width=50pc" alt="srm-balance"></p>
-<p>如果您想要添加其他通证到钱包，您也可以手动添加，只需要输入该通证的 <strong>铸币地址（Mint Address）</strong> 即可。</p>
-<p><img src="../../../images/articles/serum-dex/sol-wallet/add-token-manual.png?classes=shadow&amp;width=25pc" alt="add-token-manual">.</p>
-<p>现在我们已经成功入金至 <a href="https://sollet.io">Sollet.io</a> 钱包。您已经准备好在Serum交易了！</p>
-
-<div class="notices warning" ><p>通证地址（Token Address）或 <strong>铸币地址（Mint Address）</strong> 是通证的 <strong>合约地址</strong> ，可以理解为通证的 <strong>识别码</strong> 。</p>
-</div>
-
-
-<div class="notices warning" ><p><strong>入金地址（Deposit Address）</strong> 用来存入通证的地址。</p>
-</div>
-
+	<h2 id="项目构想">项目构想</h2>
+<h3 id="自动化做市商amm机器人">自动化做市商（AMM）机器人</h3>
+<p>为用户创建一个开源系统，用户可以利用这些开源的资源在Serum的订单簿上实现类自动化做市（AMM）。</p>
+<p>关于EcoSerum的更多详情请点击官网查询 <a href="https://www.ecoserum.dev/">https://www.ecoserum.dev/</a></p>
+<h3 id="饺子dum">饺子（DUM）</h3>
+<p>饺子DUM（Dumplings）是一种流动性挖矿代币，之后会接入Serum的自动化做市系统。</p>
+<p>下面是一些关于饺子设想的概述：</p>
+<ul>
+<li>
+<p>首先按照100SRM和100SOL比例创建一个SRM-SOL代币池，像一个ETF一样，实际上，交易者并不能与这个资产池为做对手盘做交易。</p>
+</li>
+<li>
+<p>这个代币池会自动在Serum SRM/SOL市场进行链上的自动化做市。简而言之，就是个流动性供应策略，如果SRM/SOL的价格变化为A → B → A，最糟糕的情况就是这个资产池的价值维持不变。这个资产池是完全上链的。</p>
+</li>
+<li>
+<p>用户可以通过按比例存入篮子资产为代币池提供流动性从而创建获得SPT（Serum Pool Tokens）代币奖励。例如，初始时，用户存入200SRM+200SOL进入代币池，可获得2SPT奖励。如果交易持续，一小时后，假如这个代币池的资产比例变为150SRM+80SOL，那么要创建获得2SPT就需要存入300SRM+160SOL。</p>
+</li>
+<li>
+<p>用户可以用SPT来赎回代币池里的对应部分资产。</p>
+</li>
+<li>
+<p>代币池可以获得池里产生的交易手续费，包括挂单的手续费返拥。</p>
+</li>
+<li>
+<p>在资产池创建后的头100天，每天会给到这个资产池添加1000个饺子代币(DUM)；之后不会再有更多饺子产生。每当一个饺子合约被创建的时候，都会有10万个饺子空投给所有SRM持有者，以此激励用户加入资产池，并为其提供流动性。</p>
+</li>
+</ul>
+<p>换而言之：</p>
+<ul>
+<li>
+<p>如果用户占有池子的一半资产，且在五天之后赎回SPTs，那么用户会获得SRM/SOL以及25000个饺子奖励。用户可以把获得的饺子奖励拿到DUM/USDC市场进行交易，或者用于其他地方。</p>
+</li>
+<li>
+<p>如果五天之后，用户想要 <em>加入</em> SRM/SOL做市池（比如代币池初始为100SRM+100SOL），那么用户需要存入100SRM和100SOL，以及一些DUM到资产池中（大概需要1.5万个DUM，具体数目取决于资产池本身大小或1SPT含有多少DUM）。</p>
+</li>
+</ul>
+<p>综上所述，买入或者持有饺子（DUM）是进入自动做市商池的一个门槛，每日用户为池子提供流动性也可以获得饺子作为奖励</p>
+<h3 id="借贷">借贷</h3>
+<p>Serum上的借贷需要一个对应的借贷协议，以下两种形式皆可：</p>
+<ul>
+<li>
+<p>一个原生的借贷协议</p>
+</li>
+<li>
+<p>或者从那些基于以太坊链的借贷协议（例如Compound、Aave Aave等协议）中选择，在Serum上创建一个Solana镜像版本。</p>
+</li>
+</ul>
+<p>此外，可以在Serum订单簿上进行组合，开启杠杆交易功能。</p>
+<h3 id="跨链桥">跨链桥</h3>
+<p>在Solana和其他链之间，尽可能多地建立完全上链的“桥”会是一件很棒的事。 更多详情可以查看 细则手册，还有很多其他形式的跨链桥！</p>
+<h3 id="跨链借贷">跨链借贷</h3>
+<p>资产可以通过跨链桥进行预存，可以帮用户节省等待跨链同步手续费的时间。 例如，用户可以将X个 eth作为保证金存入跨链桥，并能够提取任何预存的资产（会设置一个最高可提币限额）。</p>
+<h3 id="serum的预言机">Serum的预言机</h3>
+<p>ASerum的预言机是一个链上的预言机，会从Serum市场获取价格，并对价格进行精细复杂的风险检查以及完整性检查，给Serum上其他运行的项目提供一个明晰的参考价格。此外，结合上链的跨链桥，可以建立一个上链的跨链预言机。</p>
+<h3 id="serum的报价请求系统rfq">Serum的报价请求系统（RFQ）</h3>
+<p>基于Serum订单簿生成一个可交易的报价请求系统(RFQ)。生成的报价会有一个有效时限，其后有一个风险保证金池。寻求报价时，需要输入委托数量，Serum报价请求系统(RFQ)提供的报价可能比一般的订单簿上的数量更大。</p>
+<h3 id="分布式打包">分布式打包</h3>
+<p>分布式打包是一个上链的，可以将ERC20通证打包为SPL通证，然后进入Solana链的方法；也可以将SPL通证打包为ERC20通证，进入以太坊链。</p>
+<h3 id="合成资产">合成资产</h3>
+<p>在Serum开发币化的合成资产。</p>
+<h3 id="波动率产品">波动率产品</h3>
+<p>在Serum上开发币化的波动率以及其他非线性化的新产品。</p>
+<h3 id="零知识清算引擎">零知识清算引擎</h3>
+<p>零知识清算的概念性验证（PoC），是整个网络中的零知识（ZK），但不是去中心化平台运营者的零知识（ZK）。 该引擎能够使用链上订单簿的价格或资金费率作为见证，生成一个证明，来说明合约是否在“盈利”或者“亏损”，再采取行动——是否发起清算。</p>
+<h3 id="原生metamask整合">原生Metamask整合</h3>
+<p>有关更多Web3插件简介详细信息请参见网站。</p>
+<h3 id="移动app">移动APP</h3>
+<p>用户也可以下载Serum移动端APP，自己保管资产。</p>
+<h3 id="勋章">勋章</h3>
+<p>参与Serum各个板块的建设活动，例如，提供流动性或者节点运营等，获得对应的Serum专属勋章。</p>
+<h3 id="gui和其他构想">GUI和其他构想</h3>
+<p>以下清单罗列了可开发的图像用户界面GUI和其他功能：</p>
+<ul>
+<li><a href="https://sollet.io">Sollet.io</a> 上的按钮用作铸造自己的SPL通证</li>
+<li>DEX GUI的价格走势图</li>
+<li>创建Serum市场的按钮</li>
+<li>图像化的市价委托按钮</li>
+<li>让Ledger支持 <a href="https://sollet.io">Sollet.io</a></li>
+<li>Serum上的成交量显示和其他交易数据指标</li>
+<li>能够验证GUI和编码是否吻合的工具</li>
+</ul>
+<p>詳情請參閱 Project Serum <a href="https://github.com/project-serum/">GitHub account</a> ，SOL钱包详情请参阅 <a href="https://sollet.io">Sollet.io</a> 请参阅 <a href="../../../en/dex-list">DEX GUI</a></p>
 
 
 
@@ -557,6 +630,8 @@
             
                 
                     
+                        
+                        
                     
                 
                 
@@ -572,26 +647,6 @@
             
             
                 
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
                     
                 
                 
@@ -620,24 +675,6 @@
             
         
                     
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                        
-                    
-                    
-
-                    
                         
             
             
@@ -661,6 +698,45 @@
             
             
                 
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
                     
                 
                 
@@ -682,10 +758,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="../../../zh/serum-dex/" title="在Serum DEX上交易"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="../../../zh/serum-project-ideas/" title="Serum生态项目构想"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="../../../zh/serum-dex/connect-wallet/" title="连接您的钱包" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="../../../zh/dex-list/" title="DEX 网址名单" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
