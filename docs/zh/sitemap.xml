@@ -31,6 +31,34 @@
   </url>
   
   <url>
+    <loc>/zh/serum-project-ideas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-project-ideas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-project-ideas/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/serum-project-ideas/project-ideas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-project-ideas/project-ideas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-project-ideas/project-ideas/"
+                />
+  </url>
+  
+  <url>
     <loc>/zh/serum-dex/connect-wallet/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,6 +69,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="/zh/serum-dex/connect-wallet/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/dex-list/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/dex-list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/dex-list/"
                 />
   </url>
   

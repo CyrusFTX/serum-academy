@@ -50,14 +50,44 @@
   
   <url>
     <loc>/en/serum-project-ideas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-project-ideas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-project-ideas/"
+                />
   </url>
   
   <url>
     <loc>/en/serum-project-ideas/project-ideas/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-project-ideas/project-ideas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-project-ideas/project-ideas/"
+                />
   </url>
   
   <url>
     <loc>/en/dex-list/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/dex-list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/dex-list/"
+                />
   </url>
   
   <url>
