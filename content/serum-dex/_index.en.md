@@ -1,7 +1,6 @@
 ---
 title: Trade on Serum DEX
-weight: 5
-pre: "<b>1. </b>"
+weight: 1
 chapter: true
 ---
 

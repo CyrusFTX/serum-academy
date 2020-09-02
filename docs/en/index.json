@@ -1,0 +1,78 @@
+[
+{
+	"uri": "/en/serum-project-ideas/serum-ecosystem/",
+	"title": "Serum Ecosystem",
+	"tags": [],
+	"description": "",
+	"content": "Serum Ecosystem The nodes recently voted in favor of the following proposition, creating an initiative to fund projects building on Serum coordinated by EcoSerum, one of Project Serum\u0026rsquo;s nodes. Furthermore, 2% of all Serum fees will be used to fund new projects through EcoSerum.\nFunding and Tokens If you’re building a new project on Serum, you can coordinate with EcoSerum on the following terms:\n  EcoSerum will have grants available for promising proposals. This will be funded primarily with 2% of all Serum fees. To kick start things, the EcoSerum Project Funding Pool (EPFP) has been seeded with 200,000 locked SRM tokens and 1 locked MegaSerum (MSRM).\n These are (M)SRM tokens that are fully locked until 2021-08-01 and then unlock linearly over the following 6 years.    Any promising project will be eligible for a grant of between 1,000 and 20,000 unlocked SRM tokens to pre-launch.\n  Each project that receives a grant will get a further grant of SRM upon project launch. EcoSerum will decide on the second grant size post-launch depending on the project’s execution, ranging from 5,000 SRM to 100,000 SRM, locked 1-7 years.\n  For some projects general to Solana, there may be an additional 25 SOL granted for every 100 SRM.\n  Each project that receives a grant and successfully launches will also have a 1% chance of winning the MegaSerum!\n  Each project can choose to implement a fee/revenue model that is integrated into Project Serum. If they do:\n The Serum nodes will help in managing the project and its revenue There will be an SPL token minted for the project; call it TA. 100% of the revenue/fees/etc. of the project will go to a weekly buy/burn of TA. The project team will be granted 20% of TA tokens; 1% unlocked, 19% with a 1-7 year lock. In the case of a massive/complicated project and/or which does not come from the community’s blueprint, these terms are negotiable with EcoSerum. 1% of TA will be distributed to EcoSerum stakers, pro-rata, 1-7 year lock. The other 79% of TA tokens will be distributed pro-rata to all SRM tokens staked (any SRM can be staked, whether locked or unlocked, and there is no minimum quantity). Unlocked SRM holders will receive unlocked TA; locked SRM holders will receive 1-7 year locked TA. Rather than giving one grant up-front, the locked TA will be distributed over the next 7 years to locked SRM. The nodes will manage the entire process, integrating it into the SRM buy/burns and staking. The nodes will coordinate to help TA get listed on Serum with an IDO (initial dex offering) and supported by major Serum GUIs. The nodes will coordinate to get liquidity providers to support TA markets. The nodes will support it with standard node duties, including cranking, cross-chain support, and more    "
+},
+{
+	"uri": "/en/serum-dex/sol-wallet/",
+	"title": "SOL Wallet",
+	"tags": [],
+	"description": "",
+	"content": "Create your SOL wallet \u0026amp; Deposit Funds Serum is built on the Solana blockchain, so the first step is to create a SOL wallet. For this we recommend using Sollet.io.\nOnce you arrive on Sollet.io for the first time you have the possibility to create a new wallet. You will be given seed words, make sure to save them offline somewhere safe. This is the only way you can recover your wallet, don’t lose them!\nOnce you have noted down your seeds, you will have the possibility to add a password to your Sollet.io wallet. Even though this is optional, it is highly recommended for your own security.\nOnce the password is set (or not) you have successfully created your SOL wallet. The next step will be to send SOL to your deposit address. SOL can be bought on several exchanges like Binance or FTX.\nNow, let’s add some SOL to our wallet. For this you need to click on Receive. A pop up will appear with your SOL address. Use this address to send SOL from an exchange. (Only send SOL to this address, do not send SPL tokens (e.g. SRM) to this address)\nNow that you have some SOL in your wallet you can create another SPL address in your wallet. For this click on the + icon in the top right corner. A pop up will appear, you will have the possibility to add a popular SPL token such as: SRM, MSRM, FTT, BTC, ETH, LINK XRP, USDT, USDC. Then deposit your USDC, USDT, XRP, LINK, YFI, FTT, ETH, and/or BTC into your FTX account. Enter in your Sollet deposit address for the crypto you would like to withdraw and FTX will automatically wrap your crypto in an SPL token to be used with the Serum dex. Please note that to convert wrapped SPL assets back into their native chain, you can deposit into FTX and withdraw the unwrapped assets.\nYou can see that below your SOL address a SRM address appeared. You can use this address to send and receive funds to your Sollet.io wallet.\nIf you would like to add another token that\u0026rsquo;s not on the Popular Token list, you can add it manually by entering the Mint Address of the token.\n.\nNow we have deposited some tokens in our Sollet.io wallet. Time to do a trade on Serum!\nThe Token Address or Mint Address is the contract address of a token i.e the token identifier, do not send tokens to this address.\n The Deposit Address is the address where you deposit a token to.\n "
+},
+{
+	"uri": "/en/serum-dex/",
+	"title": "Trade on Serum DEX",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 1 How to use Serum DEX In this tutorial we will show you how to trade on Serum step by step.\ngraph TD A[Create SOL wallet] --|Send funds| B(Go to Serum DEX) B -- C[Connect SOL wallet] C -- D[Trade] D -- |Settle trade| E[Withdraw]  "
+},
+{
+	"uri": "/en/serum-dex/connect-wallet/",
+	"title": "Connect your wallet",
+	"tags": [],
+	"description": "",
+	"content": "Connect your wallet to Serum See our DEXes list for the list of official DEXes.\nOnce you are in Serum DEX, make sure you are on mainnet-beta on the top right corner in order to trade real markets.\nClick Connect wallet (Make sure you have already switched to your desirable account in Sollet.io) and finish the connection process by clicking on Connect\nAnd you will see your wallet balance synced with your Sollet.io balance.\nYou can disconnect your wallet at any time by clicking on Disconnect on the top right corner of Serum DEX.\n"
+},
+{
+	"uri": "/en/serum-project-ideas/",
+	"title": "Project Ideas",
+	"tags": [],
+	"description": "",
+	"content": "Project Ideas for Serum The nodes recently voted in favor of the this Proposal, creating an initiative to fund projects building on Serum coordinated by EcoSerum, one of Project Serum\u0026rsquo;s nodes. Furthermore, 2% of all Serum fees will be used to fund new projects through EcoSerum.\n"
+},
+{
+	"uri": "/en/serum-project-ideas/project-ideas/",
+	"title": "Project Ideas for Serum",
+	"tags": [],
+	"description": "",
+	"content": "Project Ideas AMM Bot Building an open source system that people can use to achieve AMM-like behavior on Serum’s orderbooks.\nDetails can be found on Ecoserum website: https://www.ecoserum.dev/\nDumplings A yield farming token that is integrated into an AMM system on Serum.\nHere is an idea of what it could look like:\n  Build a \u0026ldquo;pool\u0026rdquo; which starts at 100 SRM + 100 SOL per pool token. It\u0026rsquo;s just an ETF — you can\u0026rsquo;t actually trade against the pool.\n  The pool automatically does the on-chain AMM-style market making on the Serum SRM/SOL market. Basically this means; a liquidity providing strategy such that, if SRM/SOL goes from price A → B → A, the pool’s valuation will at worst be unchanged. The pool will be fully on-chain and its behavior will be well defined from creation.\n  You can \u0026lsquo;create\u0026rsquo; into the pool by delivering the basket. So at the beginning if you send in 200 SRM + 200 SOL you get 2 SPT (Serum Pool Tokens). If after an hour of trading the pool was 150 SRM + 80 SOL then to create 2 SPT you\u0026rsquo;d deposit 300 SRM + 160 SOL.\n  You can redeem your SPTs for the fractional share of the pool.\n  The pool gets the proceeds of its trading, including maker rebates\n  Each day, 10,000 Dumplings are added to the pool for the first 100 days; then no more Dumplings are created. When a Dumpling contract is first created, 100,000 Dumplings (DUM) are airdropped on all SRM holders to seed liquidity for joining the pool.\n  This means that:\n  If you redeem your SPTs after 5 days and you were half the pool, you\u0026rsquo;d get back your SRM/SOL, and also 25,000 Dumplings. You can trade those on the DUM/USDC market or whatever.\n  If after 5 days you want to join the SRM/SOL MM pool for, say, 100 SRM + 100 SOL, you\u0026rsquo;d have to send in: 100 SRM, 100 SOL, and some DUM (maybe 15,000, depending on how large the pool had been/how many DUM are in 1 SPT).\n  This means that entering the MM pool is gated by buying/owning Dumplings, and you get Dumplings each day for providing liquidity.\nBorrow/Lending Serum needs a borrow/lending protocol. This could be either:\n  A home-brewed version\n  One of the major Ethereum based protocols (Compound, Aave Aave, etc.) building a mirror on Solana\n  Furthermore, this can then be composed on top of Serum orderbooks to create margin trading.\nCross-Chain Bridges It would be awesome to have fully on-chain bridges between Solana and as many other chains as possible. See prospective specs for one here, but there are many other versions!\nCross-Chain Lending Assets can be pre-funded across the bridge and allow users to avoid waiting for cross-chain synchronization for a fee. For example, a user could deposit X eth into the bridge as collateral, and be able to withdraw any pre-funded assets up to some limit.\nSerum Oracle An on-chain oracle that takes prices from Serum markets, does sophisticated risk and sanity checks on them, and creates a clean price feed that other projects working on Serum can use. Furthermore, once there are on-chain cross-chain bridges, those can be combined with this to create a fully on-chain cross-chain pricing oracle.\nSerum RFQ Generate a tradable RFQ from the Serum order book. The generated quote can be valid for a limited time and backed by an insurance pool. It would have a size attached, and potentially be larger and wider than would be typical for orderbook trading.\nDecentralized Wrappers An on-chain method of wrapping an ERC20 token into an SPL token and vice versa.\nSynthetic Assets Building out support for tokenized synthetic assets on Serum.\nVolatility Products Building out markets or tokenized products representing volatility or other nonlinear functions of markets.\nZero Knowledge Liquidation Engine PoC for ZK liquiditations, where it’s zk to the network, but not zk to the defi platform operators. The engine should be able to use the on chain order book price or funding rate as a witness, and generate a proof that states the contract is now ‘in the money’ or ‘out of the money’ and take an action from there.\nNative Metamask Integration See this introduction to Web3 Plugins for more details\nMobile App A mobile app for Serum that also lets you self-custody on mobile.\nBadges Badges to represent participation in various aspects of Serum; e.g. liquidity providing, node operating.\nGUI \u0026amp; Other Ideas Below is a list of GUI \u0026amp; other features that could be developed:\n Button on Sollet.io to mint your own SPL token Graphs on the DEX GUI Button to create a Serum market Market orders on GUI Ledger support for Sollet.io Volume and other metric trackers for Serum A tool to validate GUIs against the source code  See Project Serum GitHub account for the source of Sollet.io and the DEX GUI\n"
+},
+{
+	"uri": "/en/dex-list/",
+	"title": "DEX list",
+	"tags": [],
+	"description": "",
+	"content": "DEX List Below is a list of Serum DEXes:\n  Serum Today: https://serum.today\n  Serum Pro: https://serumpro.org\n  Serum Folkvang.io: https://serum-mirror.folkvang.io\n  Project Serum DEX: https://dex.projectserum.com\n  The GUI of the DEX is open source and can be found on GitHub. If you are hosting a DEX and want to be in the list, please contact us.\n"
+},
+{
+	"uri": "/en/serum-dex/trade/",
+	"title": "Trade",
+	"tags": [],
+	"description": "",
+	"content": "Trade Now that you have successfully connected your SOL wallet it’s time to trade. The trading experience is the same as a centralized exchange, with the same interface.\nLet’s buy 88 BASE tokens at a limit price of 3.1 QUOTE tokens each and make sure you approve this transaction on your Sollet.io popup.\nNow you can see your limit buy order on the Orderbook, also in the Open Orders.\nNote that cancelling your Open Orders or having the trade successfully matched and traded won’t update your wallet balance. These funds sit in an intermediary account and require you to settle them back to your own sollet wallet. You have to go to Balances to settle them back to your Sollet.io wallet.\n Your Balances after cancelling the limit buy order of “88 BASE tokens at limit price 3.1 QUOTE”    Your Balances after buying “11 BASE tokens at the price of 2.22 QUOTE”\n Before settlement  After settlement     Note that you need to settle your trades. Otherwise they will sit in an intermediary account.\n "
+},
+{
+	"uri": "/en/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/en/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": "Serum Academy Goal The goal of Serum Academy is to teach people how to use Serum ecosystem and build projects on Solana and Serum.\nCurrent tutorials Below is a list of the most recent tutorials available:\n How to trade on Serum DEX  List of project ideas for Serum  Project Ideas  DEX List You will find the list of all Serum DEXes on our official page\nContribute to the Serum Academy Feel free to update this content, just click the Edit this page link displayed on top right of each page, and pullrequest it\nYour modification will be deployed automatically when merged.\n "
+},
+{
+	"uri": "/en/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

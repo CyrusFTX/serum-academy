@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/zh/serum-dex/sol-wallet/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-dex/sol-wallet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-dex/sol-wallet/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/serum-dex/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-dex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-dex/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/serum-dex/connect-wallet/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-dex/connect-wallet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-dex/connect-wallet/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/serum-dex/trade/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/serum-dex/trade/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/serum-dex/trade/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+  </url>
+  
+</urlset>
