@@ -56,13 +56,6 @@
 	"content": "Trade Now that you have successfully connected your SOL wallet it’s time to trade. The trading experience is the same as a centralized exchange, with the same interface.\nLet’s buy 88 BASE tokens at a limit price of 3.1 QUOTE tokens each and make sure you approve this transaction on your Sollet.io popup.\nNow you can see your limit buy order on the Orderbook, also in the Open Orders.\nNote that cancelling your Open Orders or having the trade successfully matched and traded won’t update your wallet balance. These funds sit in an intermediary account and require you to settle them back to your own sollet wallet. You have to go to Balances to settle them back to your Sollet.io wallet.\n Your Balances after cancelling the limit buy order of “88 BASE tokens at limit price 3.1 QUOTE”    Your Balances after buying “11 BASE tokens at the price of 2.22 QUOTE”\n Before settlement  After settlement     Note that you need to settle your trades. Otherwise they will sit in an intermediary account.\n "
 },
 {
-	"uri": "/en/getting-involved/",
-	"title": "Getting involved",
-	"tags": [],
-	"description": "",
-	"content": "EcoSerum About EcoSerum brings active investors, traders and developers together to build the Serum ecosystem. As a new, decentralized exchange, Serum is only as strong as its liquidity, accessibility and community. Our stakers are active SRM holders committed to seeing Project Serum flourish, supporting the development of UX focused tools and applications.\nPublic CRM A public CRM by EcoSerum can be found on Trello\nGrant Form EcoSerum grant form can be filled here: https://forms.gle/E3vJF7hWdRjuFYMm6\nSocials   EcoSerum website\n  EcoSerum Telegram\n  Project Serum Discord\n  Host a GUI Want to help support the Serum ecosystem? Host a GUI and get a fraction of the fees!\n An open source GUI can be found here: https://github.com/project-serum/serum-dex-ui Find more about staking and voting here: https://projectserum.com/staking-voting  "
-},
-{
 	"uri": "/en/categories/",
 	"title": "Categories",
 	"tags": [],
