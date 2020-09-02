@@ -97,7 +97,7 @@ ASerum的预言机是一个链上的预言机，会从Serum市场获取价格，
 以下清单罗列了可开发的图像用户界面GUI和其他功能：
 
 - [Sollet.io](https://sollet.io) 上的按钮用作铸造自己的SPL通证
-- 图像化的DEX GUI
+- DEX GUI的价格走势图
 - 创建Serum市场的按钮
 - 图像化的市价委托按钮
 - 让Ledger支持 [Sollet.io](https://sollet.io)
